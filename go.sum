@@ -1,0 +1,10 @@
+github.com/ajg/form v1.5.1 h1:t9c7v8JUKu/XxOGBU0yjNpaMloxGEJhUkqFRq0ibGeU=
+github.com/ajg/form v1.5.1/go.mod h1:uL1WgH+h2mgNtvBq0339dVnzXdBETtL2LeUXaIv25UY=
+github.com/go-chi/render v1.0.3 h1:AsXqd2a1/INaIfUSKq3G5uA8weYx20FOsM7uSoCyyt4=
+github.com/go-chi/render v1.0.3/go.mod h1:/gr3hVkmYR0YlEy3LxCuVRFzEu9Ruok+gFqbIofjao0=
+github.com/gorilla/mux v1.8.1 h1:TuBL49tXwgrFYWhqrNgrUNEY92u81SPhu7sTdzQEiWY=
+github.com/gorilla/mux v1.8.1/go.mod h1:AKf9I4AEqPTmMytcMc0KkNouC66V3BtZ4qD5fmWSiMQ=
+github.com/r6m/httpx v0.1.8 h1:HHkymTd6HRkfn4i2Iaf9in8faKmDuP25GX9sucnk8jI=
+github.com/r6m/httpx v0.1.8/go.mod h1:FdR7CRQJ4W9WaSONdIwZNMpMz0/dsWp3yh1rwjO/5xY=
+github.com/ritwickdey/querydecoder v1.2.0 h1:EoUIctMFPi+MIEns5abRmHsS00eTz6IcxMwzi4cPgZ0=
+github.com/ritwickdey/querydecoder v1.2.0/go.mod h1:pjwQY2T83HIXQJamaWS/eayHY950DSyp4/gKiqMzc5k=
