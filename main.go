@@ -23,6 +23,7 @@ var (
 )
 
 func main() {
+	flag.Parse()
 
 	http.HandleFunc("GET /grafana/{topic...}", handleGrafana)
 
